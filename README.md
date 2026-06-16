@@ -1,6 +1,6 @@
 # Mr Georges
 
-Mathematics, ants, and the machines that measure them.
+Mathematics, ants, machines and electronics.
 
 I am `Tanngrisnirr` on GitHub (note the double r at the end; one-r `Tanngrisnir` is a different person). This page lists what I publish, where the source lives, and where to reach me.
 
